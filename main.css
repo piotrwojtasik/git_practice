@@ -1,0 +1,18 @@
+
+.bg{
+    background-color: antiquewhite;
+    height: 1280px;
+    width: 720px;
+}
+.userInput{
+
+    background-color:lightcoral;
+    height: 150px;
+    width:100%;
+ 
+}
+.output{
+    background-color: lightskyblue;
+    height:350px;
+    width:100%;
+}

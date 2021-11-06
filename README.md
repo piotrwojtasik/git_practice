@@ -24,7 +24,7 @@
 
 *Second: Make a super To Do List* :sunglasses:
 
-| To Do | Func | Done |
+| To Do | Description | Done |
 |-------|------|-------|
 |Set up version control| Set up Git tracking in my directory and add and commit changes | :heavy_check_mark: |
 | Plan my project | Visualize my end result. What is it built with? What can it do? |.|
