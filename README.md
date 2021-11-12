@@ -22,7 +22,7 @@
 - Develop locally on my computer
 
 
-*Second: Make a super To Do List* :sunglasses:
+**Second: Make a super To Do List** :sunglasses:
 
 | To Do | Description | Done |
 |-------|------|-------|
