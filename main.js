@@ -25,7 +25,7 @@ const mixed = arr => {
         let tSentence = lies[randomNum];
         let foSentence = never[randomNum];
 
-        const fullSentence = `Peter is drunk but not stupid, your sign is ${fSentence}. Your best feature is ${sSentence} and your most popular lies is "${tSentence}". And remember - ${foSentence} ${fSentence} `
+        const fullSentence = `Huba is drunk but not stupid, your sign is ${fSentence}. Your best feature is ${sSentence} and your most popular lies is "${tSentence}". And remember - ${foSentence} ${fSentence} `
 
         return fullSentence
 
